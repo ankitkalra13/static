@@ -1,0 +1,204 @@
+  body {
+    padding: 0px;
+    margin: 0px;
+    line-height: 1.34;
+  }
+
+  *{
+    box-sizing: border-box;
+  }
+
+
+  .header {
+    background: #3b5998;
+    height: 82px;
+    border-bottom: 1px solid #133783;
+  }
+
+  .control-align {
+    width: 980px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 15px;
+  }
+
+  .clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+  }
+
+
+  .header .logo_block {
+    float: left;
+    width: 60%;
+    padding-top: 10px;
+  }
+
+  .header .header_right {
+    float: right;
+    width: 40%;
+    font-family: arial;
+  }
+
+
+
+  .login_form .login_form_input {
+    width: 38%;
+  }
+
+  .login_form .login_form_input:first-child {
+    margin-right: 18px;
+  }
+
+  .login_form .login_form_input input {
+    width: 100%;
+    padding: 2px;
+    border: 1px solid #1d2a5b;
+  }
+
+  .login_form .login_form_input label {
+    color: #fff;
+    font-size: 12px;
+    padding-bottom: 4px;
+    padding-left: 1px;
+    display: block;
+    letter-spacing: 0.5px;
+  }
+
+  .btn {
+    background-color: #4267b2;
+    color: #fff;
+    font-family: Arial;
+    border: 1px solid #ccd0d5;
+    border-color: #29487d;
+    border-radius: 03px;
+    margin-left: 13px;
+    font-size: 12px;
+    font-weight: bold;
+    margin-top: 19px;
+    line-height: 18px;
+    padding: 2px 6px;
+    text-align: center
+  }
+
+.login_form .login_form_input a{
+  color: #9cb4d8;
+  font-weight: normal;
+  font-size: 12px;
+  padding-top:4px;
+  text-decoration: none;
+}
+
+.login_form .login_form_input a:hover{
+  text-decoration: underline;
+}
+  .facebook_wrapper {
+    background: -webkit-linear-gradient(top, rgba(255, 255, 255, 1) 0%, rgba(246, 246, 246, 1) 40%, rgba(211, 216, 232, 1) 100%);
+    height: 90vh;
+  }
+
+  .content-control {
+    width: 980px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .left1 {
+    float: left;
+    color: #0e385f;
+    font-size: 17px;
+    font-weight: bold;
+    line-height: 29px;
+    width: 60%;
+    word-spacing: 1px;
+    font-family: Arial;
+    margin-top: 18px;
+  }
+
+  .right {
+    float: right;
+    font-family: Arial;
+    margin-top: 3px;
+    width: 40%;
+    text-align: left;
+  }
+
+  .right-upper {
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+
+  .right-upper1 {
+    font-size: 37px;
+    font-weight: 600;
+    margin-bottom: 5px;
+    color: #333;
+  }
+
+  .right-upper2 {
+    color: #1d2129;
+    font-size: 19px;
+    font-weight: normal;
+  }
+
+  .account form input {
+    margin-top: 10px;
+  }
+
+
+  form .input_Box input {
+    width: 100%;
+    height: 40px;
+    border-radius: 5px;
+    font-size: 18px;
+    padding: 8px 10px;
+    border: 1px solid #BDBDBD;
+  }
+
+  form .input_Box.wp-50 {
+    width: 50%;
+    width: calc(50% - 5px);
+  }
+
+  .f-left {
+    float: left;
+  }
+
+  .f-right {
+    float: right;
+  }
+
+
+.birthday-wrapper1{
+  margin-top: 15px;
+  margin-bottom: 5px;
+  color: #90949c;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.birthday-wrapper select{
+  font-size: 13px;
+    height: 30px;
+    padding: 5px;
+    border: 1px solid #ccd0d5;
+}
+
+
+.select-box.select-box_content{
+  font-size: 13px;
+    height: 30px;
+    padding: 5px;
+}
+
+.icon-design img{
+  width: 20px;
+  height: 23px;
+  padding-top: 7px;
+
+
+}
